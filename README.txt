@@ -2,7 +2,7 @@ Ticket Service Installing and Running instructions
 ==================================================
 
 1. 		Download the Ticket Service homework code from github respository link below
-
+		https://github.com/gopukrish/ticketServiceHomework.git
 2. 		Assuming JAVA_HOME and M2_HOME environment variables set, go to code downloaded directory.
 3. 		Run the command `mvn clean install`. This will clean and build the "ticketservice-1.0.jar" with dependencies in "/target/lib" and properties files in 	
 		"/target/resources/ directory"
